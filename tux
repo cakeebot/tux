@@ -1,0 +1,7 @@
+#! /bin/bash
+# wisdom of Tux
+
+
+fortune | cowsay -f tux
+
+# :)

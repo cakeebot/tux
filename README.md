@@ -6,7 +6,7 @@ Requires cowsay and fortune. A random linux project I cooked up to play with whe
 To manually install, use these comamnds: 
 ```
 cd /usr/local/bin
-wget "http://github.com"
+sudo wget "http://github.com/ClosedSequence/tux/blob/master/tux"
 ```
 # Requirements
 ## Cowsay
@@ -17,4 +17,5 @@ Install instructions:
 
 ## Fortune
 Install instructions:
+
 `sudo apt-get install fortune`
